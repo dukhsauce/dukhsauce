@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... python and bash
 - 💞️ I’m looking to collaborate on ... sdn
 - 📫 How to reach me ... on here
-- ⚡ Fun fact: ... tomato is a spice
+
 
 <!---
 dukhsauce/dukhsauce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
