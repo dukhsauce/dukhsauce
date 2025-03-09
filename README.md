@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @dukhsauce
-- 👀 I’m interested in ... network automation and security
-- 🌱 I’m currently learning ... python and bash
-- 💞️ I’m looking to collaborate on ... sdn
-- 📫 How to reach me ... on here
-
+--loading--
 
 <!---
 dukhsauce/dukhsauce is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
